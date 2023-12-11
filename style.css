@@ -1,0 +1,22 @@
+:root {
+
+    --tituloPrincipal: 'Hedvig Letters Sans', sans-serif;
+    --subTitulo: 'Rubik', sans-serif;
+    --otrosTitulos: 'Roboto Mono', monospace;
+    --parrafos: 'DM Sans', sans-serif;
+
+    /*Colores*/
+
+    --azulClaro: #85C1E9;
+    --azulOcuro: #21618C;
+    --rojo: #E74C3C;
+    --tojoOscuro: #641E16;
+    --gris: #566573;
+    --naranja: #E67E22;
+    --morado: #8E44AD;
+    --blanco: #FFFFFF;
+    --negro: #000000;
+
+}
+
+/*Codigo para el encabezado prinicpal*/
